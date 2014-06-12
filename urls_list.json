@@ -1,0 +1,747 @@
+[
+  {
+    "description": "Google",
+    "method": "GET",
+    "url": "http://google.com",
+    "match": {
+      "Google": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Facebook",
+    "method": "GET",
+    "url": "http://facebook.com",
+    "match": {
+      "Facebook": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "YouTube",
+    "method": "GET",
+    "url": "http://youtube.com",
+    "match": {
+      "YouTube": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Yahoo!",
+    "method": "GET",
+    "url": "http://yahoo.com",
+    "match": {
+      "Yahoo!": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Baidu",
+    "method": "GET",
+    "url": "http://baidu.com",
+    "match": {
+      "Baidu": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Wikipedia",
+    "method": "GET",
+    "url": "http://wikipedia.org",
+    "match": {
+      "Wikipedia": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Tencent QQ",
+    "method": "GET",
+    "url": "http://qq.com",
+    "match": {
+      "Tencent QQ": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Windows Live",
+    "method": "GET",
+    "url": "http://live.com",
+    "match": {
+      "Windows Live": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Taobao",
+    "method": "GET",
+    "url": "http://taobao.com",
+    "match": {
+      "Taobao": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "LinkedIn",
+    "method": "GET",
+    "url": "http://linkedin.com",
+    "match": {
+      "LinkedIn": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Sina Corp",
+    "method": "GET",
+    "url": "http://sina.com.cn",
+    "match": {
+      "Sina Corp": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Twitter",
+    "method": "GET",
+    "url": "http://twitter.com",
+    "match": {
+      "Twitter": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Amazon.com",
+    "method": "GET",
+    "url": "http://amazon.com",
+    "match": {
+      "Amazon.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Hao123",
+    "method": "GET",
+    "url": "http://hao123.com",
+    "match": {
+      "Hao123": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google India",
+    "method": "GET",
+    "url": "http://google.co.in",
+    "match": {
+      "Google India": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Blogspot",
+    "method": "GET",
+    "url": "http://blogspot.com",
+    "match": {
+      "Blogspot": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Sina Weibo",
+    "method": "GET",
+    "url": "http://weibo.com",
+    "match": {
+      "Sina Weibo": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "NetEase",
+    "method": "GET",
+    "url": "http://163.com",
+    "match": {
+      "NetEase": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "WordPress.com",
+    "method": "GET",
+    "url": "http://wordpress.com",
+    "match": {
+      "WordPress.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Yahoo! Japan",
+    "method": "GET",
+    "url": "http://yahoo.co.jp",
+    "match": {
+      "Yahoo! Japan": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Bing",
+    "method": "GET",
+    "url": "http://bing.com",
+    "match": {
+      "Bing": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Tmall",
+    "method": "GET",
+    "url": "http://tmall.com",
+    "match": {
+      "Tmall": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "360 Safeguard",
+    "method": "GET",
+    "url": "http://360.cn",
+    "match": {
+      "360 Safeguard": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Yandex",
+    "method": "GET",
+    "url": "http://yandex.ru",
+    "match": {
+      "Yandex": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "VKontakte",
+    "method": "GET",
+    "url": "http://vk.com",
+    "match": {
+      "VKontakte": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "eBay",
+    "method": "GET",
+    "url": "http://ebay.com",
+    "match": {
+      "eBay": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Germany",
+    "method": "GET",
+    "url": "http://google.de",
+    "match": {
+      "Google Germany": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Babylon",
+    "method": "GET",
+    "url": "http://babylon.com",
+    "match": {
+      "Babylon": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "MSN",
+    "method": "GET",
+    "url": "http://msn.com",
+    "match": {
+      "MSN": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google UK",
+    "method": "GET",
+    "url": "http://google.co.uk",
+    "match": {
+      "Google UK": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Soso.com",
+    "method": "GET",
+    "url": "http://soso.com",
+    "match": {
+      "Soso.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google France",
+    "method": "GET",
+    "url": "http://google.fr",
+    "match": {
+      "Google France": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "tumblr",
+    "method": "GET",
+    "url": "http://tumblr.com",
+    "match": {
+      "tumblr": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Mail.Ru",
+    "method": "GET",
+    "url": "http://mail.ru",
+    "match": {
+      "Mail.Ru": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Pinterest",
+    "method": "GET",
+    "url": "http://pinterest.com",
+    "match": {
+      "Pinterest": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Japan",
+    "method": "GET",
+    "url": "http://google.co.jp",
+    "match": {
+      "Google Japan": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Apple Inc.",
+    "method": "GET",
+    "url": "http://apple.com",
+    "match": {
+      "Apple Inc.": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Brazil",
+    "method": "GET",
+    "url": "http://google.com.br",
+    "match": {
+      "Google Brazil": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Microsoft",
+    "method": "GET",
+    "url": "http://microsoft.com",
+    "match": {
+      "Microsoft": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "PayPal",
+    "method": "GET",
+    "url": "http://PayPal.com",
+    "match": {
+      "PayPal": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Russia",
+    "method": "GET",
+    "url": "http://google.ru",
+    "match": {
+      "Google Russia": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Spain",
+    "method": "GET",
+    "url": "http://google.es",
+    "match": {
+      "Google Spain": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Italy",
+    "method": "GET",
+    "url": "http://google.it",
+    "match": {
+      "Google Italy": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "FC2",
+    "method": "GET",
+    "url": "http:// Inc.",
+    "match": {
+      "FC2": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Blogger",
+    "method": "GET",
+    "url": "http://blogger.com",
+    "match": {
+      "Blogger": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Internet Movie Database",
+    "method": "GET",
+    "url": "http://imdb.com",
+    "match": {
+      "Internet Movie Database": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Craigslist",
+    "method": "GET",
+    "url": "http://craigslist.org",
+    "match": {
+      "Craigslist": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Ask.com",
+    "method": "GET",
+    "url": "http://ask.com",
+    "match": {
+      "Ask.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Sohu",
+    "method": "GET",
+    "url": "http://sohu.com",
+    "match": {
+      "Sohu": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Conduit",
+    "method": "GET",
+    "url": "http://conduit.com",
+    "match": {
+      "Conduit": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "BBC",
+    "method": "GET",
+    "url": "http://bbc.co.uk",
+    "match": {
+      "BBC": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Go.com",
+    "method": "GET",
+    "url": "http://go.com",
+    "match": {
+      "Go.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Amazon Japan",
+    "method": "GET",
+    "url": "http://amazon.co.jp",
+    "match": {
+      "Amazon Japan": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Mexico",
+    "method": "GET",
+    "url": "http://google.com.mx",
+    "match": {
+      "Google Mexico": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Odnoklassniki",
+    "method": "GET",
+    "url": "http://odnoklassniki.ru",
+    "match": {
+      "Odnoklassniki": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Canada",
+    "method": "GET",
+    "url": "http://google.ca",
+    "match": {
+      "Google Canada": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Youku",
+    "method": "GET",
+    "url": "http://youku.com",
+    "match": {
+      "Youku": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "LiveJasmin",
+    "method": "GET",
+    "url": "http://livejasmin.com",
+    "match": {
+      "LiveJasmin": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Amazon Germany",
+    "method": "GET",
+    "url": "http://amazon.de",
+    "match": {
+      "Amazon Germany": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Adobe Systems",
+    "method": "GET",
+    "url": "http://adobe.com",
+    "match": {
+      "Adobe Systems": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Flickr",
+    "method": "GET",
+    "url": "http://flickr.com",
+    "match": {
+      "Flickr": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "AVG Technologies",
+    "method": "GET",
+    "url": "http://avg.com",
+    "match": {
+      "AVG Technologies": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Ifeng News",
+    "method": "GET",
+    "url": "http://ifeng.com",
+    "match": {
+      "Ifeng News": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "t.co URL Shortening Service",
+    "method": "GET",
+    "url": "http://t.co",
+    "match": {
+      "t.co URL Shortening Service": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "AOL",
+    "method": "GET",
+    "url": "http://aol.com",
+    "match": {
+      "AOL": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Rakuten",
+    "method": "GET",
+    "url": "http://rakuten.co.jp",
+    "match": {
+      "Rakuten": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "CNN",
+    "method": "GET",
+    "url": "http://cnn.com",
+    "match": {
+      "CNN": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "The Pirate Bay",
+    "method": "GET",
+    "url": "http://thepiratebay.se",
+    "match": {
+      "The Pirate Bay": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "MyWebSearch",
+    "method": "GET",
+    "url": "http://mywebsearch.com",
+    "match": {
+      "MyWebSearch": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "eBay Germany",
+    "method": "GET",
+    "url": "http://ebay.de",
+    "match": {
+      "eBay Germany": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Amazon UK",
+    "method": "GET",
+    "url": "http://amazon.co.uk",
+    "match": {
+      "Amazon UK": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Adf.ly",
+    "method": "GET",
+    "url": "http://adf.ly",
+    "match": {
+      "Adf.ly": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Alibaba Group",
+    "method": "GET",
+    "url": "http://alibaba.com",
+    "match": {
+      "Alibaba Group": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "ESPN.com",
+    "method": "GET",
+    "url": "http://espn.go.com",
+    "match": {
+      "ESPN.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Blogspot India",
+    "method": "GET",
+    "url": "http://blogspot.in",
+    "match": {
+      "Blogspot India": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Turkey",
+    "method": "GET",
+    "url": "http://google.com.tr",
+    "match": {
+      "Google Turkey": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Indonesia",
+    "method": "GET",
+    "url": "http://google.co.id",
+    "match": {
+      "Google Indonesia": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Instagram",
+    "method": "GET",
+    "url": "http://instagram.com",
+    "match": {
+      "Instagram": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "The Huffington Post",
+    "method": "GET",
+    "url": "http://huffingtonpost.com",
+    "match": {
+      "The Huffington Post": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Alipay",
+    "method": "GET",
+    "url": "http://alipay.com",
+    "match": {
+      "Alipay": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "About.com",
+    "method": "GET",
+    "url": "http://about.com",
+    "match": {
+      "About.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Stack Overflow",
+    "method": "GET",
+    "url": "http://stackoverflow.com",
+    "match": {
+      "Stack Overflow": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Sogou.com",
+    "method": "GET",
+    "url": "http://sogou.com",
+    "match": {
+      "Sogou.com": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Australia",
+    "method": "GET",
+    "url": "http://google.com.au",
+    "match": {
+      "Google Australia": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Livedoor",
+    "method": "GET",
+    "url": "http://livedoor.com",
+    "match": {
+      "Livedoor": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "360buy",
+    "method": "GET",
+    "url": "http://360buy.com",
+    "match": {
+      "360buy": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "eBay UK",
+    "method": "GET",
+    "url": "http://ebay.co.uk",
+    "match": {
+      "eBay UK": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Netflix",
+    "method": "GET",
+    "url": "http://netflix.com",
+    "match": {
+      "Netflix": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Dailymotion",
+    "method": "GET",
+    "url": "http://dailymotion.com",
+    "match": {
+      "Dailymotion": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Imgur",
+    "method": "GET",
+    "url": "http://imgur.com",
+    "match": {
+      "Imgur": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Zedo",
+    "method": "GET",
+    "url": "http://zedo.com",
+    "match": {
+      "Zedo": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Google Poland",
+    "method": "GET",
+    "url": "http://google.pl",
+    "match": {
+      "Google Poland": true,
+      "farfegnugen": false
+    } },
+  {
+    "description": "Universo Online",
+    "method": "GET",
+    "url": "http://uol.com.br",
+    "match": {
+      "Universo Online": true,
+      "farfegnugen": false
+    }
+  }
+]
